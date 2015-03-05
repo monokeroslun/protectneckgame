@@ -63,7 +63,7 @@ function Game(){
                                          },100);
                                      },
                                      function(stream){
-                                         alert("sb");
+                                         alert("oh no~");
                                      });
     }
     this.start = function() {
